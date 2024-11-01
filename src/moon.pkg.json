@@ -1,7 +1,10 @@
 {
   "link": {
     "wasm-gc": {
-      "exports": ["palindrome"]
+      "exports": [
+        "palindrome",
+        "change_color"
+      ]
     }
   },
   "use-js-builtin-string": true

@@ -1,8 +1,8 @@
 {
   "link": {
     "wasm-gc": {
-      "exports": ["change_color"]
+      "exports": ["change_color"],
+      "use-js-builtin-string": true
     }
-  },
-  "use-js-builtin-string": true
+  }
 }

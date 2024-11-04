@@ -12,7 +12,7 @@ const { instance } = await WebAssembly.instantiateStreaming(
   },
   {
     builtins: ["js-string"],
-    importedStringConstants: "moonbit:constant_strings",
+    importedStringConstants: "_",
   }
 );
 

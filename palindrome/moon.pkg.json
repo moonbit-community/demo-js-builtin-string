@@ -1,8 +1,8 @@
 {
   "link": {
     "wasm-gc": {
-      "exports": ["palindrome"]
+      "exports": ["palindrome"],
+      "use-js-builtin-string": true
     }
-  },
-  "use-js-builtin-string": true
+  }
 }

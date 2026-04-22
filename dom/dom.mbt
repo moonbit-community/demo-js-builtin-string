@@ -1,4 +1,5 @@
-extern type DOM
+#external
+type DOM
 
 fn set_css(dom : DOM, key : String, value : String) -> Unit = "dom" "set_css"
 

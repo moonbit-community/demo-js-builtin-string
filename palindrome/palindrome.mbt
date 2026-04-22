@@ -1,3 +1,4 @@
+///|
 pub fn palindrome(s : String) -> String {
   let len = s.length()
   for i in 0..<(len / 2) {

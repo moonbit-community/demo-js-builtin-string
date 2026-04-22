@@ -1,0 +1,15 @@
+// Generated using `moon info`, DON'T EDIT IT
+package "demo-js-builtin-string/dom"
+
+// Values
+pub fn change_color(DOM) -> Unit
+
+// Errors
+
+// Types and methods
+type DOM
+
+// Type aliases
+
+// Traits
+

@@ -1,0 +1,14 @@
+// Generated using `moon info`, DON'T EDIT IT
+package "demo-js-builtin-string/print_and_concat"
+
+// Values
+pub fn print_and_concat(String, String) -> String
+
+// Errors
+
+// Types and methods
+
+// Type aliases
+
+// Traits
+

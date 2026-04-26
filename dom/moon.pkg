@@ -1,0 +1,5 @@
+options(
+  link: {
+    "wasm-gc": { "exports": [ "change_color" ], "use-js-builtin-string": true },
+  },
+)

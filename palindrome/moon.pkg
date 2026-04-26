@@ -1,0 +1,5 @@
+options(
+  link: {
+    "wasm-gc": { "exports": [ "palindrome" ], "use-js-builtin-string": true },
+  },
+)
